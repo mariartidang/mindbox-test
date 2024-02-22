@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\Mindboxtest\Mindboxtest\bin\Debug\Mindboxtest.dll
+C:\Users\USER\source\repos\Mindboxtest\Mindboxtest\bin\Debug\Mindboxtest.pdb
+C:\Users\USER\source\repos\Mindboxtest\Mindboxtest\obj\Debug\Mindboxtest.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Mindboxtest\Mindboxtest\obj\Debug\Mindboxtest.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Mindboxtest\Mindboxtest\obj\Debug\Mindboxtest.dll
+C:\Users\USER\source\repos\Mindboxtest\Mindboxtest\obj\Debug\Mindboxtest.pdb
